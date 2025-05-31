@@ -1,27 +1,27 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
+      "commerce-core-endpoint": "https://tooltopia-staging.isnweb.net/graphql",
+      "commerce-endpoint": "https://tooltopia-staging.isnweb.net/cs-graphql",
       "headers": {
         "all": {
-          "Store": "default"
+          "Store": "ttview"
         },
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
-          "Magento-Store-Code": "main_website_store",
-          "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base",
-          "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
-          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
+          "Magento-Store-Code": "ttgroup",
+          "Magento-Store-View-Code": "ttview",
+          "Magento-Website-Code": "ttweb",
+          "x-api-key": "e441e528a2cc4aaeb398e5b47c815001",
+          "Magento-Environment-Id": "2f663665-a552-4806-9c9a-bf8d4638123e"
         }
       },
       "analytics": {
         "base-currency-code": "USD",
-        "environment": "Production",
+        "environment": "Sandbox",
         "store-id": 1,
         "store-name": "Main Website Store",
-        "store-url": "https://www.aemshop.net",
+        "store-url": "https://tooltopia-staging.isnweb.net",
         "store-view-id": 1,
         "store-view-name": "Default Store View",
         "website-id": 1,
