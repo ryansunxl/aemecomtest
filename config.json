@@ -2,7 +2,7 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://tooltopia-staging.isnweb.net/graphql",
-      "commerce-endpoint": "https://tooltopia-staging.isnweb.net/cs-graphql",
+      "commerce-endpoint": "https://catalog-service-sandbox.adobe.io/graphql",
       "headers": {
         "all": {
           "Store": "ttview"
