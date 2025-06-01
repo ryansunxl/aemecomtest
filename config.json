@@ -2,7 +2,7 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://tooltopia-staging.isnweb.net/graphql",
-      "commerce-endpoint": "https://catalog-service-sandbox.adobe.io/graphql",
+      "commerce-endpoint": "https://catalog-service.adobe.io/graphql",
       "headers": {
         "all": {
           "Store": "ttview"
@@ -12,8 +12,8 @@
           "Magento-Store-Code": "ttgroup",
           "Magento-Store-View-Code": "ttview",
           "Magento-Website-Code": "ttweb",
-          "x-api-key": "e441e528a2cc4aaeb398e5b47c815001",
-          "Magento-Environment-Id": "2f663665-a552-4806-9c9a-bf8d4638123e"
+          "x-api-key": "8350e81c493443de9b3353e051380911",
+          "Magento-Environment-Id": "8199d199-8d2d-45eb-93bb-c8168257eec2"
         }
       },
       "analytics": {
